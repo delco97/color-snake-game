@@ -1,6 +1,6 @@
 # Color Snake Game
 
-[!Demo](./docs/img/demo.gif)
+![Demo](./docs/img/demo.gif)
 
 Color Snake is a revisited version of the famous snake game, written in Processing. In this game, the player gets more points if they are able to catch apples following the right color sequence. This project was created for fun and experimenting with game mechanics in Processing.
 
